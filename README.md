@@ -1,2 +1,2 @@
 # git_test
-Testing 1, 2, 3
+This is AlexChi's first git project!
